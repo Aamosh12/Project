@@ -12,6 +12,7 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+   I'm still confused so trying to be better
 
 Contents
 --------
