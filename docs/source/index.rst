@@ -17,12 +17,10 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-.. toctree::
-
-   services
-   dashboard
-   market
-   announcement
-   news
-   reports
-   ipo
+*   services
+*   dashboard
+*   market
+*   announcement
+*   news
+*   reports
+*   ipo
