@@ -20,7 +20,6 @@ Contents
 -      :doc:`services`
 -      :doc:`dashboard`
 -      :doc:`market`
--      :doc:`announcement`
 -      :doc:`news`
 -      :doc:`reports`
 -      :doc:`ipo`
