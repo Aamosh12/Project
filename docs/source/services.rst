@@ -44,5 +44,6 @@ Technical Data
 
 **Merolagani Technical Data** provides the data required for Meta stock software. 
 **MetaStock** is a computer program used for *charting* and *technical analysis of stock prices*. 
+
 Price for this service: Rs 2,500 for 12 months.
 
