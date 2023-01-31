@@ -10,6 +10,8 @@ The green color means the share price is increasing and the red color means decr
 If you click in any symbol, you can get detail information about particular company.
 
 .. image:: live_trading.jpg
+Above mention is the image of Live Tradingof date 2023/01/31
+
 
 Todays Shareprice
 -----------------
