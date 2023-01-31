@@ -4,8 +4,7 @@ Services
 .. attention::
     Kindly Login to merolagani to buy the services mentioned in merolagani website or 
     create an account if you are new user.
-    You can visit the page `MeroLagani Login`_.
-    .. _MeroLagani Login: https://www.merolagani.com/Login.aspx/
+    You can visit the page `MeroLagani Login <https://www.merolagani.com/Login.aspx>`_
 
 Data Analytics
 --------------
