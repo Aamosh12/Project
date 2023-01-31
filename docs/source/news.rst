@@ -1,4 +1,4 @@
-Usage
+News
 =====
 
 .. _installation:

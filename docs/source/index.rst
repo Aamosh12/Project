@@ -6,7 +6,7 @@ Exchange NEPSE live market trading, floorsheet, Indices, Share, AGM, Bookclose, 
 You can visit the page `Merolagani <https://www.merolagani.com/Index.aspx/>`_
 and offers a *latest* and *interesting* NEWS.
 
-Check out the :doc:`dashboard` section for further information, including
+Check out the :doc:`services` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -17,10 +17,10 @@ how to :ref:`installation` the project.
 Contents
 --------
 
--      :ref:`services`
--      :ref:`dashboard`
--      :ref:`market`
--      :ref:`announcement`
--      :ref:`news`
--      :ref:`reports`
--      :ref:`ipo`
+-      :doc:`services`
+-      :doc:`dashboard`
+-      :doc:`market`
+-      :doc:`announcement`
+-      :doc:`news`
+-      :doc:`reports`
+-      :doc:`ipo`
