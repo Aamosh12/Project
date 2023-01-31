@@ -9,7 +9,7 @@ Here you can see the shareprice of different companies increasing and decreasing
 The green color means the share price is increasing and the red color means decreasing in the share prices...
 If you click in any symbol, you can get detail information about particular company.
 
-.. image:: _static/live_trading.jpg
+.. image:: live_trading.jpg
 
 Todays Shareprice
 -----------------
