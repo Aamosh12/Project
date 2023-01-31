@@ -1,12 +1,12 @@
-Welcome to Aamosh's documentation!
+Welcome to Mero Lagani's Documentation!
 ===================================
 
-**Lumache**  is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Merolagani** is online financial news portal that provides latest Nepal Stock 
+Exchange NEPSE live market trading, floorsheet, Indices, Share, AGM, Bookclose, Dividend, etc.
+You can visit the page `Merolagani <https://www.merolagani.com/Index.aspx/>`_
+and offers a *latest* and *interesting* NEWS.
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`dashboard` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
