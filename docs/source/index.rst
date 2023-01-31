@@ -25,9 +25,9 @@ Contents
       News
       reports
       ipo
-.. -      :doc:`services`
-.. -      :doc:`dashboard`
-.. -      :doc:`market`
-.. -      :doc:`news`
-.. -      :doc:`reports`
-.. -      :doc:`ipo`
+-      :doc:`services`
+-      :doc:`dashboard`
+-      :doc:`market`
+-      :doc:`news`
+-      :doc:`reports`
+-      :doc:`ipo`
