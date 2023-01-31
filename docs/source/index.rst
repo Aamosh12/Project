@@ -19,5 +19,10 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   services
+   dashboard
+   market
+   announcement
+   news
+   reports
+   ipo
