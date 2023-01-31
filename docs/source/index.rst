@@ -16,12 +16,11 @@ how to :ref:`installation` the project.
 
 Contents
 --------
-.. toctree::
-   :maxdepth: 2
-      :ref:`services`
-      :ref:`dashboard`
-      :ref:`market`
-      :ref:`announcement`
-      :ref:`news`
-      :ref:`reports`
-      :ref:`ipo`
+
+-      :ref:`services`
+-      :ref:`dashboard`
+-      :ref:`market`
+-      :ref:`announcement`
+-      :ref:`news`
+-      :ref:`reports`
+-      :ref:`ipo`
