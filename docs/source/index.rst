@@ -17,10 +17,10 @@ how to :ref:`installation` the project.
 Contents
 --------
 
-*   services
-*   dashboard
-*   market
-*   announcement
-*   news
-*   reports
-*   ipo
+:ref:`services`
+:ref:`dashboard`
+:ref:`market`
+:ref:`announcement`
+:ref:`news`
+:ref:`reports`
+:ref:`ipo`
