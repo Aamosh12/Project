@@ -1,9 +1,9 @@
-Usage
+News
 =====
 
-.. _installation:
 
-Installation
+
+Insurance
 ------------
 
 To use Lumache, first install it using pip:
