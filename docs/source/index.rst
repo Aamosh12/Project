@@ -15,6 +15,7 @@ Check out the :doc:`services` section for the services.
 Contents
 --------
 Click on the following points to explore.
+
 .. toctree::
    services
    dashboard
