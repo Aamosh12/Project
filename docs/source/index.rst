@@ -15,10 +15,16 @@ Check out the :doc:`services` section for the services.
 Contents
 --------
 Click on the following points to explore.
-
-* :doc:`services`
-* :doc:`dashboard`
-* :doc:`market`
-* :doc:`news`
-* :doc:`reports`
-* :doc:`ipo`
+.. toctree::
+   services
+   dashboard
+   market
+   news
+   reports
+   ipo
+.. * :doc:`services`
+.. * :doc:`dashboard`
+.. * :doc:`market`
+.. * :doc:`news`
+.. * :doc:`reports`
+.. * :doc:`ipo`
