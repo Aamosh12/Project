@@ -31,7 +31,7 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
-# -- Options for HTML output
+# -- Options for HTML outputs
 
 html_theme = 'sphinx-rtd-theme'
 html_css_files = ["source/custom.css", "css/sphinx_prompt_css.css"]
