@@ -27,13 +27,13 @@ intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
-intersphinx_disabled_domains = ["std:docs"]
+intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
 # -- Options for HTML outputs
 
-html_theme = 'sphinx-rtd-theme'
+html_theme = ['sphinx-rtd-theme']
 html_css_files = ["source/custom.css", "css/sphinx_prompt_css.css"]
 
 # -- Options for EPUB output
