@@ -16,6 +16,8 @@ Contents
 --------
 Click on the following points to explore.
 .. toctree::
+   :hidden:
+   
    services
    dashboard
    market
