@@ -19,7 +19,6 @@ Click on the following points to explore.
 .. toctree::
    :titlesonly:
 
-   index
    services
    dashboard
    market
