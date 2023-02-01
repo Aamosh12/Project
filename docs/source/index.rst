@@ -17,7 +17,6 @@ Contents
 Click on the following points to explore.
 
 .. toctree::
-   :titlesonly:
 
    services
    dashboard
