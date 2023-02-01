@@ -10,7 +10,7 @@ The green color means the share price is increasing and the red color means decr
 If you click in any symbol, you can get detail information about particular company.
 
 .. image:: live_trading.jpg
-Above mention is the image of Live Tradingof date 2023/01/31
+Above mention is the image of Live Trading of date 2023/01/31.
 
 
 Todays Shareprice
@@ -18,14 +18,20 @@ Todays Shareprice
 It gives the information about the recent shareprice of different companies including LTP(Last Transaction Price),
 the turnover and percentage of changes.
 You can also search the details of any particular on a particular day.
+.. image:: shareprice.jpg
 
 Floorsheet
 ----------
 
 
+.. image:: floorsheet.jpg
+
 Indices
 -------
 
+.. image:: indices.jpg
 
 Market Overview
 ---------------
+
+.. image:: overview.jpg
