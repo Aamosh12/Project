@@ -42,6 +42,12 @@ epub_show_urls = 'footnote'
 # conf.py
 
 html_theme_options = {
+    'logo_only': False,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': False,
+    'vcs_pageview_mode': '',
+    'style_nav_header_background': 'white',
     'collapse_navigation': False,
     'sticky_navigation': True,
     'navigation_depth': 7,
