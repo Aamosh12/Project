@@ -40,7 +40,7 @@ epub_show_urls = 'footnote'
 html_theme_options = {
     'collapse_navigation': False,
     'sticky_navigation': True,
-    'navigation_depth': 4,
+    'navigation_depth': 7,
     'includehidden': True,
-    'titles_only': False
+    'titles_only': False,
 }
