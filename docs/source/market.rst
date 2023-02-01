@@ -17,7 +17,7 @@ Todays Shareprice
 -----------------
 It gives the information about the recent shareprice of different companies including LTP(Last Transaction Price),
 the turnover and percentage of changes.
-You can also search the details of any particular on a particular day.
+You can also search the details of any company on a particular day.
 
 .. image:: shareprice.jpg
 
