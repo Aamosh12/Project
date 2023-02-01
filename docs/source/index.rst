@@ -18,7 +18,7 @@ Click on the following points to explore.
 
 .. toctree::
    :titlesonly:
-   
+
    index
    services
    dashboard
@@ -26,9 +26,3 @@ Click on the following points to explore.
    news
    reports
    ipo
-.. * :doc:`services`
-.. * :doc:`dashboard`
-.. * :doc:`market`
-.. * :doc:`news`
-.. * :doc:`reports`
-.. * :doc:`ipo`
