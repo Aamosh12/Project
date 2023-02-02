@@ -2,7 +2,12 @@
 
 # -- Project information
 
+import sys
+import os
+import re
 
+
+from sphinx.locale import _
 
 project = 'Mero Lagani'
 copyright = '2021, Graziella'
