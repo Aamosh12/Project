@@ -24,15 +24,22 @@ You can also search the details of any company on a particular day.
 Floorsheet
 ----------
 
+It contain all the transaction details of each company. it also includes transaction id, company's symbol (BHNC-Buddhabhumi Nepal Hydropower Company Limited), buyer, seller, quantity, rate and the total amount.
 
 .. image:: floorsheet.jpg
 
 Indices
 -------
+It contain overall detail of Indices. For example: If you want to know detail about the overall Hydropower companies. It contain index value, absolute changes and change percentage of each day.
 
 .. image:: indices.jpg
 
 Market Overview
 ---------------
-
+It contain overall every detail of the market which include market Summary, indices, sub indices, top turnover as well as gainers and loosers.
 .. image:: overview.jpg
+
+
+.. note::
+    Gainers are the company which are making profit and whose prices are being high Whereas the loosers are those that are having loss. 
+    Turnover means the total amount sales of shares over a period of time.
