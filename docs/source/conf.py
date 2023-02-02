@@ -33,7 +33,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML outputs
 
-html_theme = ['sphinx-rtd-theme']
+html_theme = ['sphinx_rtd_theme']
 html_css_files = ["source/custom.css", "css/sphinx_prompt_css.css"]
 
 # -- Options for EPUB output
