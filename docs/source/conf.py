@@ -38,7 +38,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML outputs
 
-html_theme = 'pyramid'
+html_theme = 'agogo'
 
 
 # -- Options for EPUB output
