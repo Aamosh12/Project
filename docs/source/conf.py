@@ -38,7 +38,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML outputs
 
-html_theme = 'karma_sphinx_theme'
+html_theme = 'sphinxdoc'
 html_css_files = ["css/custom.css", "css/sphinx_prompt_css.css"]
 
 # -- Options for EPUB output
